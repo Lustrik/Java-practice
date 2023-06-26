@@ -7,10 +7,10 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
         int a = 234;
-      int b = a/7;
-      int c = a/30;
-      System.out.printf("Прошло %d недель\n", b);
-      System.out.printf("Прошло %d месяцев\n", c);
+        int b = a/7;
+        int c = a/30;
+        System.out.printf("Прошло %d недель\n", b);
+        System.out.printf("Прошло %d месяцев\n", c);
   }
 }
 
